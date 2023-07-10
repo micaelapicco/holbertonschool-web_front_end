@@ -1,5 +1,5 @@
 
-# <a> <img src="https://imgbin.com/png/vJj6pmP4/front-and-back-ends-computer-icons-front-end-web-development-png" alt="web front end" width=4% heigth=4% ></img></a>  Advanced HTML
+# <a> <img src="https://cdn-icons-png.flaticon.com/512/2620/2620735.png" alt="Python Language" width=4% heigth=4% ></img></a>  Advanced HTML
 
 
 ## Learning Objectives
@@ -23,7 +23,9 @@
 - `Techium` will be the name of the company we will use across our webpages.
 ## Sitemap of the project
 
-![sitemap](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230710%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230710T140929Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=11e8a7529965a23fe0ff1123e8af214bf1a1e3be97ae0ed5488122f7157be887)
+![4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a](https://github.com/micaelapicco/holbertonschool-web_front_end/assets/124269707/9f5b8edf-3a07-4a49-b132-1c33d5730519)
+
 
 ### Wireframe of Techium project
-![Techium](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230710%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230710T140929Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cee2b2e4ecc0f4fe8591b3214846aeff1ef00bc6a40db480aaf3051f8f1dfc85)
+![3e4f9e2b3cb73d1768229e086f5da35337be5c6c](https://github.com/micaelapicco/holbertonschool-web_front_end/assets/124269707/86cb954d-02cf-4e7d-ab14-deb3680cf944)
+
