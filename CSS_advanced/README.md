@@ -1,4 +1,4 @@
-<a> <img src="https://imgbin.com/png/vJj6pmP4/front-and-back-ends-computer-icons-front-end-web-development-png" alt="web front end" width=4% heigth=4% ></img></a> Advanced CSS
+# <a> <img src="https://cdn-icons-png.flaticon.com/512/2620/2620735.png" alt="Python Language" width=4% heigth=4% ></img></a> Advanced CSS
 
 ## Learning Objectives
 
@@ -23,3 +23,5 @@
 - Your code should be W3C compliant and validate with W3C-Validator
 
 ## Objective
+
+![b9a220ba79af9ede6fc5](https://github.com/micaelapicco/holbertonschool-web_front_end/assets/124269707/8d5b7c47-786d-4b74-b20e-4a702ef4093f)
