@@ -5,6 +5,7 @@
 
 # Index
 - Advanced HTML
+- Advanced CSS
 
 # Update
 - jul, 23
