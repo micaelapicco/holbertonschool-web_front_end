@@ -67,7 +67,7 @@ html {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
-  --buttom-color: var(--color-white)
+  --button-color: var(--color-white)
 }
 
 /*custom body*/
@@ -103,7 +103,7 @@ a:active {
   background-color: var(--color-light-grey)
 }
 
-.buttom {
+.button {
   display: var(--button-display);
   padding: var(--button-padding);
   border: var(--button-border);
@@ -117,6 +117,7 @@ a:active {
   text-decoration: var(--button-hover-text-decoration);
   background-color: var(--button-hover-background);
 }
+
 
 .social-link {
   display: block;
