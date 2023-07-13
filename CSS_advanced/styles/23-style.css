@@ -91,8 +91,8 @@ a:active {
   display: block;
 }
 
-svg.social-link {
-  color: var(--text-color);
+.social-link > svg {
+  fill: var(--text-color)
 }
 
 /*class visually hidden*/
