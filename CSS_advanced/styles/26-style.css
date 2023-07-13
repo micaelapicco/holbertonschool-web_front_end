@@ -153,21 +153,7 @@ a:active {
   text-decoration: none;
 }
 
-.clard-testimonial {
-  text-align: center;
-}
 
-.clard-testimonial .card-avatar {
-  border-radius: 50%;
-  width: 10rem;
-  height: 10rem;
-}
-
-.clard-testimonial .card-quote cite {
-  display: block;
-  padding-top: 1rem;
-  color: var(--color-primary);
-}
 /*class section*/
 .section-tagline {
   color: var(--color-primary);
@@ -290,5 +276,19 @@ ul.row {
   padding: 0.5rem;
 }
 
+.clard-testimonial {
+  text-align: center;
+}
 
+.clard-testimonial .card-avatar {
+  border-radius: 50%;
+  width: 10rem;
+  height: 10rem;
+}
+
+.clard-testimonial .card-quote cite {
+  display: block;
+  padding-top: 1rem;
+  color: var(--color-primary);
+}
 
